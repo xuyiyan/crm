@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="XDL_CRM:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/XDL_CRM_war</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="XDL_CRM/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="BLB_CRM" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
